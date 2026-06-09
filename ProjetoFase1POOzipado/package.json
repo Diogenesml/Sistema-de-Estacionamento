@@ -1,0 +1,12 @@
+{
+  "name": "projeto-estacionamento-fase1",
+  "version": "1.0.0",
+  "description": "Projeto de estacionamento - Fase 1 com cadastro, registros e relatórios.",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
